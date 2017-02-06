@@ -41,6 +41,7 @@ such as Cartesian coordinate system and quadric surface (ellipsoid, sphere and p
 
 
 ### 4. Course(s) in discrete structure (including local credits)
+
 Discrete Mathematics(A) (2014-2015 Semester 1) 3 credits
 Discrete Mathematics is an important branch of modern mathematics and a core fundamental 
 course in computer and information science. This course consists of three part: set theory,
@@ -52,21 +53,33 @@ domain, lattice, boolean algebra and graph are introduced in the course.
 # Computer science
 
 
-### 1. Courses in computer science in at least three different subjects corresponding to at least 22,5 ECTS credits
+### 1. Courses in computer science in at least three different subjects corresponding to at least 22.5 ECTS credits
+
 Fundamentals of Computers (2012-2013 Semester1)
+
 Introduction to Computing (2012-2013 Semester2)
+
 Computer Programming 1 (2013-2014 Semester1)
+
 Computer Programming 2 (2013-2014 Semester2)
+
 Data Structures and Algorithms(A) (2014-2015 Semester1)
+
 Assemble Language (2014-2015 Semester2)
-Microcomputer Principles and Interface Technology (2015-2016 Semester2)
+
 Computational Methods (2014-2015 Semester 2)
+
 Pattern Recognition (2015-2016 Semester 2)
+
 Digital Image and Video Processing (2015-2016 Semester 2)
+
+Microcomputer Principles and Interface Technology (2015-2016 Semester2)
+
 Operating Systems (Ongoing 2016-2017 Semester 2)
 
 
 ### 2. Course(s) in object oriented programming (including local credits)
+
 Computer Programming 2 (2013-2014 Semester2) 3 credits
 This course aims to familiarize students with C# and advanced concepts of object-oriented 
 programming. It covers design and implementation of class, creating and initializing 
@@ -75,6 +88,7 @@ classes and file processing.
 
 
 ### 3. Course(s) in algorithms and data structures (included local credits)
+
 Data Structures and Algorithms(A) (2014-2015 Semester1) 3 credits
 Data Structure and Algorithms is the fundamental core course of computer science. This
 course covers the concepts of common data structure such as linear table, stack, leap,
@@ -83,6 +97,7 @@ algorithms. And basics of algorithm complexity analysis are also included in the
 
 
 ### 4. Course(s) in computational complexity (included local credits)
+
 Introduction to Computing (2012-2013 Semester2) 1 credit
 This course provides an introduction to the concept of computational complexity. 
 It also investigate basic sorting algorithms and analysis their computational complexity,
