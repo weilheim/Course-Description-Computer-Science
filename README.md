@@ -49,6 +49,8 @@ Data Structures and Algorithms(A) (2014-2015 Semester1)
 Assemble Language (2014-2015 Semester2)
 Microcomputer Principles and Interface Technology (2015-2016 Semester2)
 Computational Methods (2014-2015 Semester 2)
+Pattern Recognition (2015-2016 Semester 2)
+Digital Image and Video Processing (2015-2016 Semester 2)
 Operating Systems (Ongoing 2016-2017 Semester 2)
 
 
