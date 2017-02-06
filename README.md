@@ -1,4 +1,22 @@
-## Welcome to GitHub Pages
+## Mathematics
+
+1. Courses in Mathematics corresponding to 22.5 credits 
+
+2. Course(s) in calculus in one-variabel
+
+3. Course(s) in Linear Algebra
+
+4. Course(s) in discrete structure (including local credits)
+
+## Computer science
+
+1. Courses in computer science in at least three different subjects corresponding to at least 22,5 ECTS credits.
+
+2. Course(s) in object oriented programming (including local credits)
+
+3. Course(s) in algorithms and data structures (included local credits) 
+
+4. Course(s) in computational complexity (included local credits)
 
 You can use the [editor on GitHub](https://github.com/weilheim/Course-Description/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
