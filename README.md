@@ -2,35 +2,43 @@
 
 
 ### 1. Courses in Mathematics corresponding to 22.5 credits
-```markdown
+
 Mathematics (2012-2013 Semester1) 
+
 Engineering Mathematical Analysis 1 (2012-2013 Semester 2)
+
 Algebra and Geometry 1 (2012-2013 Semester 2)
+
 Engineering Mathematical Analysis 2 (2013-2014 Semester 1)
+
 Algebra and Geometry 2 (2013-2014 Semester 1)
+
 Engineering Mathematical Analysis 3 (2013-2014 Semester 2)
+
 Complex Function and Integral Transformation (2013-2014 Semester 2)
+
 Discrete Mathematics(A) (2014-2015 Semester 1)
-```
+
 
 ### 2. Course(s) in calculus in one-variable
-```markdown
+
 Mathematics (2012-2013 Semester1) 
+
 This course focuses on advanced calculus tools and the derivation procedure of such tools.
 It covers real number theory, concept of limits (the limit of a sequence and a function), 
 definitions and properties of continuous functions, differential calculus (differentiable 
 functions, rules of differentiation, etc.) and integration.
-```
+
 
 ### 3. Course(s) in Linear Algebra
-```markdown
+
 Algebra and Geometry 1 (2012-2013 Semester 2)
 Algebra and Geometry 2 (2013-2014 Semester 1)
 These courses are combination of linear algebra and analytic geometry. The linear algebra
 part covers the concept of determinant, matrix, linear transform, linear space, eigenvalues,
 quadratic form and Euclidean space. And the geometry parts contains important concepts 
 such as Cartesian coordinate system and quadric surface (ellipsoid, sphere and paraboloid).
-```
+
 
 ### 4. Course(s) in discrete structure (including local credits)
 Discrete Mathematics(A) (2014-2015 Semester 1) 3 credits
