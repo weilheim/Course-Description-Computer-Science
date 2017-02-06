@@ -2,6 +2,9 @@
 
 1. Courses in Mathematics corresponding to 22.5 credits 
 
+```markdown
+The contents of this course include both theory of complex functions and common function transformation. The complex function part covers operations on complex numbers, continuity and limit of complex functions, derivative of integral of complex functions, power series, Taylor series, Laurent series, residue theorem and its applications. And the Integral transformation part covers the concepts and features of Fourier transform and Laplace transform.
+
 2. Course(s) in calculus in one-variabel
 
 3. Course(s) in Linear Algebra
