@@ -109,7 +109,7 @@ This course provides an introduction to the concept of computational complexity.
 It also investigate basic sorting algorithms and analysis their computational complexity,
 such as Quicksort, Merge sort and Insertion sort.
 
-Computational Methods (2014-2015 Semester 2) 2 credits
+Computational Methods (2014-2015 Semester2) 2 credits
 
 This courses aims to provide an in-depth understanding of computational complexity and 
 help students master methods used to estimate computational complexity of large-scale softwares.
